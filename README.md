@@ -25,3 +25,5 @@ This project predicts house prices using Linear Regression.
 ```bash
 pip install -r requirements.txt
 python main.py
+
+
