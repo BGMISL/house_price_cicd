@@ -28,22 +28,22 @@ python main.py
 
 ## Project Structure
 
-![Project Structure](images/structure.png)
+![img](images/structure.png)
 
 ---
 
 ## GitHub Repository
 
-![GitHub Repo](images/git_home_page.png)
+![img](images/git_home_page.png)
 
 ---
 
 ## Pytest Output
 
-![Pytest](images/pytest.png)
+![img](images/pytest.png)
 
 ---
 
 ## Model Output
 
-![Model Output](images/main.png)
+![img](images/main.png)
